@@ -32,7 +32,8 @@ const Banner = () => {
                         <div class="image__section banner">
                             <div class="live__circle">
                                 <div class="image__circle">
-                                    <span><i class="fa-solid fa-arrow-down"></i></span>
+                                    {/* <span><i class="fa-solid fa-arrow-down"></i></span> */}
+                                    <span><i class="fa-solid fa-down"></i></span>
                                     <span><img src={circleImg} alt="image"/></span>
                                 </div>
                             </div>
