@@ -8,6 +8,7 @@ import About from './components/About';
 import Team from './components/Team';
 import Faq from './components/Faq';
 import Community from './components/Community';
+import Gallery from './components/Gallery';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
 <Banner/>
    </div>
    <CountDown/>
+   <Gallery/>
    <EasyStep/>
    <About/>
    <Team/>

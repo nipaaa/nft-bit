@@ -547,7 +547,7 @@ a{
   width: unset;
 }
 
-.owl-carousel.owl-drag .owl-item{
+.item{
   margin-right: 10px !important;
   padding: 55px 0;
   background: rgba(255, 255, 255, 0.05);
