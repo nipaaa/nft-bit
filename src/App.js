@@ -1,8 +1,9 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './shared/Header';
 import Banner from './components/Banner';
 import CountDown from './components/CountDown';
+import EasyStep from './components/EasyStep';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
 <Banner/>
    </div>
    <CountDown/>
+   <EasyStep/>
     </div>
   
   );
