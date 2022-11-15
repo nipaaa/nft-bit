@@ -9,6 +9,7 @@ import Team from './components/Team';
 import Faq from './components/Faq';
 import Community from './components/Community';
 import Gallery from './components/Gallery';
+import RoadMap from './components/RoadMap';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
    <Gallery/>
    <EasyStep/>
    <About/>
+   <RoadMap/>
    <Team/>
    <Faq/>
    <Community/>
