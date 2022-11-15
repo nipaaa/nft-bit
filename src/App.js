@@ -7,6 +7,7 @@ import EasyStep from './components/EasyStep';
 import About from './components/About';
 import Team from './components/Team';
 import Faq from './components/Faq';
+import Community from './components/Community';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
    <About/>
    <Team/>
    <Faq/>
+   <Community/>
     </div>
   
   );
