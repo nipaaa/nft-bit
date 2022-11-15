@@ -6,6 +6,7 @@ import CountDown from './components/CountDown';
 import EasyStep from './components/EasyStep';
 import About from './components/About';
 import Team from './components/Team';
+import Faq from './components/Faq';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
    <EasyStep/>
    <About/>
    <Team/>
+   <Faq/>
     </div>
   
   );
