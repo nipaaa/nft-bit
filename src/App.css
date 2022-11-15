@@ -26,7 +26,7 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #132E32; 
 }
-/* ===scroll bar vartically customising=== */
+/* ===scroll bar vertically customizing=== */
 
 h1, h2, h3, h4, h5, h6, p{
   margin: 0;
@@ -361,7 +361,7 @@ a{
   }
 }
 
-.live__circle .image__circle svg.svg-inline--fa.fa-arrow-down {
+.live__circle .image__circle .fa-arrow-down {
   position: absolute;
   left: 50%;
   top: 50%;

@@ -38,7 +38,7 @@ const Header = () => {
         {/* <!-- header section end here --> */}
 
 
-        {/* <!-- mobile menu star here --> */}
+        {/* <!-- mobile menu start here --> */}
         <div class="mobile__menu">
             <div class="mobile__header">
                 <img src={logo} alt="image"/>
