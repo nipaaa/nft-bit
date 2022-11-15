@@ -4,6 +4,7 @@ import Header from './shared/Header';
 import Banner from './components/Banner';
 import CountDown from './components/CountDown';
 import EasyStep from './components/EasyStep';
+import About from './components/About';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
    </div>
    <CountDown/>
    <EasyStep/>
+   <About/>
     </div>
   
   );
